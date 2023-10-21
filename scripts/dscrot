@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+scrot --select ~/Pictures/Screenshots/%b%d::%H%M%S.png
+
